@@ -2,3 +2,4 @@
 elasticsearch:8.14.0
 nginx
 kibana:8.14.0
+kibana:7.17.22
