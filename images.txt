@@ -5,3 +5,5 @@ kibana:8.14.0
 kibana:7.17.22
 mysql:8.0
 redis:8.0
+houning/mysql-shell:latest
+mysql/mysql-router:8.0
